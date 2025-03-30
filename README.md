@@ -26,18 +26,20 @@ Este proyecto tiene como objetivo desarrollar un programa en C que ordene una pi
 
 1.  **Clonar el repositorio:** 
 
-	```bash
-    	git clone git@github.com:pauss12/42_PUSH_SWAP.git push_swap
-    	cd push_swap
+    ```bash
+    git clone git@github.com:pauss12/42_PUSH_SWAP.git push_swap
+    cd push_swap
     ```
 
 2.  **Compilar el programa:** 
 
-	```bash
-    	make
+    ```bash
+    make
     ```
 
-3.  **Ejecutar el programa:** ```bash
+3.  **Ejecutar el programa:**
+  
+    ```bash
     ./push_swap <lista_de_números_enteros>
     ```
 
